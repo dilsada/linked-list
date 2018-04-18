@@ -1,2 +1,2 @@
 # linked-list
-a playlist with linked list implementation
+A playlist implementation with linked list in C++
